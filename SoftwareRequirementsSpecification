@@ -1,0 +1,18 @@
+Functional User Brainstorm 
+
+	A unregistered user must create an account with a username and password.
+
+	A registering user can finish the registeration process at any time but will not have access to workout prescriptions.
+
+	A registering user must answer 8 YES or NO diagnosis questions.
+
+	Any registering user that answered a diagonsis question as "NO" must see and be approved by a medical authority before
+	recieving a workout prescription.
+
+	A registering user must answer all the questions in the basic body information form.
+
+	A registering user will recieve a workout prescription after finishing the diagnosis questions and basic information form.
+
+	An not logged in user must login with a username and password.
+	
+	A logged in user can see their daily and weekly workout prescriptions.
